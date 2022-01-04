@@ -1,4 +1,4 @@
-# Intellij-Settings
+# Settings
 My intellij settings, including keymaps and color schemes. Makes darcula better for python
 
 
